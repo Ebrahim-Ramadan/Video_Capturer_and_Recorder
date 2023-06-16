@@ -6,7 +6,7 @@ conn = psycopg2.connect(
     database="master",
     user="postgres",
     password="sharmojj",
-    port = '7910'
+    port='####'  # db password
 )
 cursor = conn.cursor()
 # alter_table_query = "ALTER TABLE Recordings ADD COLUMN Video_Content BYTEA"
