@@ -13,3 +13,4 @@ cursor = conn.cursor()
 # cursor.execute(alter_table_query)
 
 # conn.commit()
+# just connect your local db with this project
